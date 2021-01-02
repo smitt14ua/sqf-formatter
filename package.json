@@ -11,7 +11,7 @@
 		"Arma",
 		"Arma 3"
 	],
-	"icon": "./logo.png",
+	"icon": "logo.png",
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.52.0"
