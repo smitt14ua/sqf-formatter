@@ -1,16 +1,26 @@
 {
-  "name": "sqf-formatter",
+	"name": "sqf-formatter",
+	"publisher": "Smith",
+	"repository": {
+		"url": "https://github.com/smitt14ua/sqf-formatter"
+	},
 	"displayName": "SQF formatter",
-	"description": "Formatter for SQF code",
-	"version": "0.0.1",
+	"description": "Formatter for SQF code.",
+	"keywords": [
+		"SQF",
+		"Arma",
+		"Arma 3"
+	],
+	"icon": "./logo.png",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
 	"categories": [
-		"Other"
+		"Formatters"
 	],
 	"activationEvents": [
-        "onLanguage:sqf"
+		"onLanguage:sqf"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
@@ -20,7 +30,9 @@
 				"extensions": [
 					".sqf"
 				],
-				"aliases": ["SQF"]
+				"aliases": [
+					"SQF"
+				]
 			}
 		]
 	},
