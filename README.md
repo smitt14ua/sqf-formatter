@@ -1,6 +1,6 @@
 # SQF formatter
 ## Description
-Simple code formatter base on [ACE 3 Coding Guidelines](https://ace3mod.com/wiki/development/coding-guidelines.html)
+Simple code formatter based on [ACE 3 Coding Guidelines](https://ace3mod.com/wiki/development/coding-guidelines.html).
 
 Click [here](https://imgur.com/a/VoRvos4) to see how it works.
 
@@ -22,4 +22,4 @@ Click [here](https://imgur.com/a/VoRvos4) to see how it works.
 - Click the `Right Mouse Button (RMB)` on your code and select **Format document**
 - Select code, click the `RMB` and select **Format Selection** or press `Ctrl + K` and `Ctrl + F`
 
-*Hotkeys may be different depending on your settings.
+*Hotkeys may be different depending on your settings*
